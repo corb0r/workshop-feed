@@ -1,0 +1,1 @@
+{"name": "Workshop Feed", "short_name": "Workshop", "start_url": "./", "display": "standalone", "background_color": "#FAFAFA", "theme_color": "#007AFF", "icons": [{"src": "./icon.png", "sizes": "180x180", "type": "image/png"}]}
